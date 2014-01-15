@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+    <name>Control iTunes with Apple+F5,F6,F7</name>
+    <identifier>private.itunes_fkeys</identifier>
+    <autogen>__KeyToConsumer__ KeyCode::F5, ModifierFlag::COMMAND_L, ConsumerKeyCode::MUSIC_PREV</autogen>
+    <autogen>__KeyToConsumer__ KeyCode::F6, ModifierFlag::COMMAND_L, ConsumerKeyCode::MUSIC_PLAY</autogen>
+    <autogen>__KeyToConsumer__ KeyCode::F7, ModifierFlag::COMMAND_L, ConsumerKeyCode::MUSIC_NEXT</autogen>
+    <autogen>__KeyToConsumer__ KeyCode::F11, ModifierFlag::COMMAND_L, ConsumerKeyCode::VOLUME_DOWN</autogen>
+    <autogen>__KeyToConsumer__ KeyCode::F12, ModifierFlag::COMMAND_L, ConsumerKeyCode::VOLUME_UP</autogen>
+  </item>
+</root>
